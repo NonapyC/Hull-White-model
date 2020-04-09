@@ -1,7 +1,7 @@
 // -------------------------------------------------------------------------------------
 //  Hull-white modelを用いた割引債価格の数値計算(モンテカルロ)と解析解との比較
 //
-//  Comparison between Monte-Carlo simulation and anaritic solution of Zero-Coupen bond price
+//  Comparison between Monte-Carlo simulation and analitical solution of Zero-Coupen bond price
 //  under Hull-white modeling spot rate.
 // -------------------------------------------------------------------------------------
 
